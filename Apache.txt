@@ -34,3 +34,17 @@ wso.php
 wso-4-2-5.php
 wso-4-2-5priv.php
 zto.php
+alfav3-encoded.php
+alfav4.1-decoded.php
+alfav4.1-encoded.php
+TwemlowsShell.php
+TwemlowsWebShell.php
+bloodsecv4.php
+by.php
+c99ud.php
+configkillerionkros.php
+obfuscated-punknopass.php
+punk-nopass.php
+punkholic.php
+smevk.php
+wso2.8.5.php
