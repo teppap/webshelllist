@@ -37,3 +37,6 @@ webshell.aspx
 webshell.php
 wso.php
 zto.php
+pouya.asp
+shell.jsp
+shell.asp
